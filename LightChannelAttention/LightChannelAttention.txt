@@ -1,0 +1,103 @@
+训练开始，共 100 对图像数据
+批次大小: 16, 总迭代次数: 50
+Epoch [1/50], Batch [0/7], Loss: 0.2115
+Epoch [1/50], 平均Loss: 0.1695
+Epoch [2/50], Batch [0/7], Loss: 0.0948
+Epoch [2/50], 平均Loss: 0.1008
+Epoch [3/50], Batch [0/7], Loss: 0.0833
+Epoch [3/50], 平均Loss: 0.0781
+Epoch [4/50], Batch [0/7], Loss: 0.0855
+Epoch [4/50], 平均Loss: 0.0718
+Epoch [5/50], Batch [0/7], Loss: 0.0814
+Epoch [5/50], 平均Loss: 0.0699
+Epoch [6/50], Batch [0/7], Loss: 0.0664
+Epoch [6/50], 平均Loss: 0.0654
+Epoch [7/50], Batch [0/7], Loss: 0.0696
+Epoch [7/50], 平均Loss: 0.0590
+Epoch [8/50], Batch [0/7], Loss: 0.0536
+Epoch [8/50], 平均Loss: 0.0585
+Epoch [9/50], Batch [0/7], Loss: 0.0578
+Epoch [9/50], 平均Loss: 0.0535
+Epoch [10/50], Batch [0/7], Loss: 0.0557
+Epoch [10/50], 平均Loss: 0.0488
+Epoch [11/50], Batch [0/7], Loss: 0.0469
+Epoch [11/50], 平均Loss: 0.0465
+Epoch [12/50], Batch [0/7], Loss: 0.0424
+Epoch [12/50], 平均Loss: 0.0407
+Epoch [13/50], Batch [0/7], Loss: 0.0439
+Epoch [13/50], 平均Loss: 0.0410
+Epoch [14/50], Batch [0/7], Loss: 0.0381
+Epoch [14/50], 平均Loss: 0.0377
+Epoch [15/50], Batch [0/7], Loss: 0.0383
+Epoch [15/50], 平均Loss: 0.0374
+Epoch [16/50], Batch [0/7], Loss: 0.0291
+Epoch [16/50], 平均Loss: 0.0340
+Epoch [17/50], Batch [0/7], Loss: 0.0364
+Epoch [17/50], 平均Loss: 0.0335
+Epoch [18/50], Batch [0/7], Loss: 0.0368
+Epoch [18/50], 平均Loss: 0.0326
+Epoch [19/50], Batch [0/7], Loss: 0.0307
+Epoch [19/50], 平均Loss: 0.0310
+Epoch [20/50], Batch [0/7], Loss: 0.0313
+Epoch [20/50], 平均Loss: 0.0295
+Epoch [21/50], Batch [0/7], Loss: 0.0251
+Epoch [21/50], 平均Loss: 0.0300
+Epoch [22/50], Batch [0/7], Loss: 0.0304
+Epoch [22/50], 平均Loss: 0.0293
+Epoch [23/50], Batch [0/7], Loss: 0.0270
+Epoch [23/50], 平均Loss: 0.0285
+Epoch [24/50], Batch [0/7], Loss: 0.0285
+Epoch [24/50], 平均Loss: 0.0292
+Epoch [25/50], Batch [0/7], Loss: 0.0292
+Epoch [25/50], 平均Loss: 0.0302
+Epoch [26/50], Batch [0/7], Loss: 0.0387
+Epoch [26/50], 平均Loss: 0.0310
+Epoch [27/50], Batch [0/7], Loss: 0.0288
+Epoch [27/50], 平均Loss: 0.0296
+Epoch [28/50], Batch [0/7], Loss: 0.0309
+Epoch [28/50], 平均Loss: 0.0282
+Epoch [29/50], Batch [0/7], Loss: 0.0232
+Epoch [29/50], 平均Loss: 0.0258
+Epoch [30/50], Batch [0/7], Loss: 0.0263
+Epoch [30/50], 平均Loss: 0.0256
+Epoch [31/50], Batch [0/7], Loss: 0.0239
+Epoch [31/50], 平均Loss: 0.0257
+Epoch [32/50], Batch [0/7], Loss: 0.0317
+Epoch [32/50], 平均Loss: 0.0257
+Epoch [33/50], Batch [0/7], Loss: 0.0255
+Epoch [33/50], 平均Loss: 0.0245
+Epoch [34/50], Batch [0/7], Loss: 0.0220
+Epoch [34/50], 平均Loss: 0.0243
+Epoch [35/50], Batch [0/7], Loss: 0.0218
+Epoch [35/50], 平均Loss: 0.0242
+Epoch [36/50], Batch [0/7], Loss: 0.0267
+Epoch [36/50], 平均Loss: 0.0232
+Epoch [37/50], Batch [0/7], Loss: 0.0221
+Epoch [37/50], 平均Loss: 0.0253
+Epoch [38/50], Batch [0/7], Loss: 0.0283
+Epoch [38/50], 平均Loss: 0.0244
+Epoch [39/50], Batch [0/7], Loss: 0.0213
+Epoch [39/50], 平均Loss: 0.0251
+Epoch [40/50], Batch [0/7], Loss: 0.0286
+Epoch [40/50], 平均Loss: 0.0252
+Epoch [41/50], Batch [0/7], Loss: 0.0290
+Epoch [41/50], 平均Loss: 0.0272
+Epoch [42/50], Batch [0/7], Loss: 0.0287
+Epoch [42/50], 平均Loss: 0.0306
+Epoch [43/50], Batch [0/7], Loss: 0.0260
+Epoch [43/50], 平均Loss: 0.0265
+Epoch [44/50], Batch [0/7], Loss: 0.0228
+Epoch [44/50], 平均Loss: 0.0253
+Epoch [45/50], Batch [0/7], Loss: 0.0307
+Epoch [45/50], 平均Loss: 0.0252
+Epoch [46/50], Batch [0/7], Loss: 0.0255
+Epoch [46/50], 平均Loss: 0.0235
+Epoch [47/50], Batch [0/7], Loss: 0.0215
+Epoch [47/50], 平均Loss: 0.0243
+Epoch [48/50], Batch [0/7], Loss: 0.0226
+Epoch [48/50], 平均Loss: 0.0228
+Epoch [49/50], Batch [0/7], Loss: 0.0251
+Epoch [49/50], 平均Loss: 0.0224
+Epoch [50/50], Batch [0/7], Loss: 0.0243
+Epoch [50/50], 平均Loss: 0.0273
+训练完成，模型已保存为 image_inpaint.pth
